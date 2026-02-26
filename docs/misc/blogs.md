@@ -11,6 +11,7 @@ A collection of decompilation blogs from the community.
 
 ### Alphabetical Order
 - [angr blog](https://angr.io/blog/) (💀, 💾, 🔍)
+- [Chris Lewis](https://blog.chrislewis.au/) ( , 🌍) 
 - [Intranautic](https://intranautic.com/) (🔍)
 - [Kronotai](https://kronotai.com/wordpress/blog/) (💀, 💾, 🔍)
 - [mahaloz](https://mahaloz.re/) (💾, 🔍, 🌍)
